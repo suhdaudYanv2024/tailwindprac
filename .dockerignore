@@ -1,0 +1,9 @@
+# igonre the venv directory
+venv/
+# ignore the db.sqlite3 file
+db.sqlite3
+# ignore the __pycache__ directory
+__pycache__/
+
+
+
